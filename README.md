@@ -1,0 +1,4 @@
+- 👋 Hi everyone, I’m Jacopo Beghetto
+- 👀 I'm corrently a student in HEC Lausame in the Master of Management orientation Business Analytics
+- 🌱 I’m currently mastering R and learning SQL and Python as I see my self as a Data Analyst in the near future
+- 💞️ I’m looking to collaborate on interesting project in which I can help, teach and learn at the same time.
